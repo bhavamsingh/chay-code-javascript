@@ -1,5 +1,5 @@
 
-// Primitive
+Primitive
 
 // 7 Types: String , Number, boolean , null, undefined , Symbol, BigInt
 
@@ -62,3 +62,6 @@ userTwo.email  = "hiteshchaudhary.com"
 
 console.log(userOne.email)
 console.log(userTwo.email)
+
+
+
